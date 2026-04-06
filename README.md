@@ -1,62 +1,80 @@
-<h1 align="center">💜 Erkinbayeva Shohruza Ruslonovna 💜</h1>
+<h1 align="center">💙 Erkinbayeva Shohruza Ruslanovna 💙</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&center=true&vCenter=true&size=22&lines=Backend+Developer;Flask+%7C+Django+Specialist;Minimalist+%F0%9F%92%9C;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&size=22&lines=Python+Backend+Developer;Flask+%7C+Django+Specialist;Clean+Code+Lover;Always+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 </p>
 
 ---
 
 ## 🧕 About Me
 
-* 📍 **Pitnak, Tuproqqala, Xorazm**
-* 💻 Backend Developer (**Flask & Django**)
-* 🧠 Focus: Clean Architecture & Scalable Systems
-* ⚡ Style: Minimal • Elegant • Fast
+* 🐍 Python Backend Developer
+* 💻 Specializing in Flask & Django
+* 📍 Pitnak, Tuproqqala, Xorazm
+* ⚡ Clean • Minimal • Scalable code
 
 ---
 
 ## 🌍 Languages
 
-🇺🇿 Uzbek — Native
-  🇬🇧 English — C1
-  🇹🇷 Turkish — B1
-  🇫🇷 French — A2
+* 🇺🇿 Uzbek — Native
+* 🇬🇧 English — C1
+* 🇹🇷 Turkish — B2
+* 🇫🇷 French — B1
+
+---
+
+## 🐍 Python Expertise
+
+```text
+Core Python      ████████████░░ 90%
+OOP              ███████████░░░ 85%
+Flask            ██████████░░░░ 80%
+Django           ██████████░░░░ 80%
+Algorithms       ████████░░░░░░ 70%
+```
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧠 Backend
+### 🐍 Backend (Main Focus)
 
-![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-9D4EDD?style=for-the-badge\&logo=flask\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-9D4EDD?style=for-the-badge\&logo=django\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-6A5ACD?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6A5ACD?style=for-the-badge\&logo=django\&logoColor=white)
 
 ### 🗄️ Database
 
-![SQLite](https://img.shields.io/badge/SQLite-9D4EDD?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9D4EDD?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A5ACD?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-6A5ACD?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS Code-9D4EDD?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6A5ACD?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-6A5ACD?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## 🧠 Skills Progress
+## 🐍 Code Style
 
-```text
-Python        ███████████░░░ 85%
-Flask         ██████████░░░░ 80%
-Django        ██████████░░░░ 80%
-PostgreSQL    █████████░░░░░ 75%
-SQLite        ████████████░░ 90%
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Shohruza"
+        self.role = "Python Backend Developer"
+        self.stack = ["Flask", "Django", "PostgreSQL"]
+
+    def build(self):
+        return "Clean • Scalable • Powerful"
+
+me = Developer()
+print(me.build())
 ```
 
 ---
@@ -86,7 +104,7 @@ SQLite        ████████████░░ 90%
 
 ---
 
-## 🐍 Contribution Snake (Live Animation)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shohruza2024/shohruza2024/output/github-contribution-grid-snake.svg" />
@@ -98,14 +116,14 @@ SQLite        ████████████░░ 90%
 
 <p align="center">
   <a href="https://t.me/ruslonovnash">
-    <img src="https://img.shields.io/badge/Telegram-9D4EDD?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
 </p>
 
-💜 *Minimal • Premium • Powerful • 1% Developer Profile*
+💙 *Python • Minimal • Clean • Powerful*
