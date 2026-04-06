@@ -22,9 +22,9 @@
 ## 🌍 Languages
 
 🇺🇿 Uzbek — Native
-🇬🇧 English — C1
-🇹🇷 Turkish — B1
-🇫🇷 French — A2
+  🇬🇧 English — C1
+  🇹🇷 Turkish — B1
+  🇫🇷 French — A2
 
 ---
 
