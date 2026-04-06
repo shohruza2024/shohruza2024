@@ -1,16 +1,111 @@
-## Hi there 👋
+<h1 align="center">💜 Erkinbayeva Shohruza Ruslonovna 💜</h1>
 
-<!--
-**shohruza2024/shohruza2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&center=true&vCenter=true&size=22&lines=Backend+Developer;Flask+%7C+Django+Specialist;Minimalist+%F0%9F%92%9C;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=header"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧕 About Me
+
+* 📍 **Pitnak, Tuproqqala, Xorazm**
+* 💻 Backend Developer (**Flask & Django**)
+* 🧠 Focus: Clean Architecture & Scalable Systems
+* ⚡ Style: Minimal • Elegant • Fast
+
+---
+
+## 🌍 Languages
+
+🇺🇿 Uzbek — Native
+🇬🇧 English — C1
+🇹🇷 Turkish — B1
+🇫🇷 French — A2
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Backend
+
+![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-9D4EDD?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-9D4EDD?style=for-the-badge\&logo=django\&logoColor=white)
+
+### 🗄️ Database
+
+![SQLite](https://img.shields.io/badge/SQLite-9D4EDD?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9D4EDD?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS Code-9D4EDD?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🧠 Skills Progress
+
+```text
+Python        ███████████░░░ 85%
+Flask         ██████████░░░░ 80%
+Django        ██████████░░░░ 80%
+PostgreSQL    █████████░░░░░ 75%
+SQLite        ████████████░░ 90%
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohruza2024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://streak-stats.demolab.com?user=shohruza2024&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shohruza2024&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruza2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Live Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shohruza2024/shohruza2024/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📞 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/ruslonovnash">
+    <img src="https://img.shields.io/badge/Telegram-9D4EDD?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer"/>
+</p>
+
+💜 *Minimal • Premium • Powerful • 1% Developer Profile*
