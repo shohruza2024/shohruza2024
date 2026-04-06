@@ -1,4 +1,4 @@
-<h1 align="center"> Erkinbayeva Shohruza Ruslanovna </h1>
+<h1 align="center"> Erkinbayeva Shohruza Ruslonovna </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&size=22&lines=Python+Backend+Developer;Flask+%7C+Django+Specialist;Clean+Code+Lover;Always+Learning+🚀" />
