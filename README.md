@@ -10,7 +10,7 @@
 
 ---
 
-## 🧕 About Me
+## 🧑🏻‍💻 About Me
 
 * 🐍 Python Backend Developer
 * 💻 Specializing in Flask & Django
