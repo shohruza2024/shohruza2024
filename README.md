@@ -15,15 +15,14 @@
 * 🐍 Python Backend Developer
 * 💻 Specializing in Flask & Django
 * 📍 Pitnak, Tuproqqala, Xorazm
-* ⚡ Clean • Minimal • Scalable code
+
 
 ---
 
 ## 🌍 Languages
 
 * 🇺🇿 Uzbek — Native
-* 🇬🇧 English — C1
-* 🇹🇷 Turkish — B2
+* 🇬🇧 English — B2
 * 🇫🇷 French — B1
 
 ---
@@ -61,24 +60,6 @@ Algorithms       ████████░░░░░░ 70%
 
 ---
 
-## 🐍 Code Style
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Shohruza"
-        self.role = "Python Backend Developer"
-        self.stack = ["Flask", "Django", "PostgreSQL"]
-
-    def build(self):
-        return "Clean • Scalable • Powerful"
-
-me = Developer()
-print(me.build())
-```
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -92,22 +73,6 @@ print(me.build())
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shohruza2024&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruza2024&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shohruza2024/shohruza2024/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
